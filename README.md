@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Click the link to access [Code Quiz](https://ajjeroni.github.io/My-Portfolio-/)
+Click the link to access [Code Quiz](https://ajjeroni.github.io/Web-API-Code-Quiz/)
 
 ## Credits
 
